@@ -1,0 +1,289 @@
+2020-02-18 00:34:31 INFO  root:72 - kstra logged in
+2020-02-18 00:45:43 INFO  root:58 - com.revature.pojo.Database@483bf400 was deserialized
+2020-02-18 00:46:11 INFO  root:27 -  was serialized
+2020-02-18 09:57:04 INFO  root:58 - Database was deserialized
+2020-02-18 09:57:24 INFO  root:71 - kstra logged in
+2020-02-18 09:57:48 INFO  root:27 - Database was serialized
+2020-02-20 18:50:27 INFO  root:58 - Database was deserialized
+2020-02-20 18:53:32 INFO  root:58 - Database was deserialized
+2020-02-20 18:55:39 INFO  root:58 - Database was deserialized
+2020-02-20 18:55:48 INFO  root:75 - Sorry, your information was incorrect
+2020-02-20 18:55:48 INFO  root:75 - Sorry, your information was incorrect
+2020-02-20 18:56:34 INFO  root:58 - Database was deserialized
+2020-02-20 18:56:42 INFO  root:75 - Sorry, your information was incorrect
+2020-02-20 18:56:42 INFO  root:75 - Sorry, your information was incorrect
+2020-02-20 18:58:15 INFO  root:58 - Database was deserialized
+2020-02-20 18:58:23 INFO  root:77 - Sorry, your information was incorrect
+2020-02-20 18:58:46 INFO  root:58 - Database was deserialized
+2020-02-20 18:58:57 INFO  root:77 - Sorry, your information was incorrect
+2020-02-20 18:59:44 INFO  root:58 - Database was deserialized
+2020-02-20 18:59:51 INFO  root:87 - Sorry, your information was incorrect
+2020-02-20 20:01:50 INFO  root:27 - Database was serialized
+2020-02-20 20:02:58 INFO  root:58 - Database was deserialized
+2020-02-20 20:03:06 INFO  root:73 - kstra logged in
+2020-02-20 20:03:22 INFO  root:83 - bjohn logged in
+2020-02-20 20:04:17 INFO  root:216 - Car [ 2020 Tesla Model S miles=15000 $35000.0 VIN=154882] was created by BJohn
+2020-02-20 20:04:22 INFO  root:27 - Database was serialized
+2020-02-20 20:26:14 INFO  root:27 - Database was serialized
+2020-02-20 20:40:24 INFO  root:58 - Database was deserialized
+2020-02-20 20:40:31 INFO  root:77 - Sorry, your information was incorrect
+2020-02-20 20:40:56 INFO  root:87 - Sorry, your information was incorrect
+2020-02-20 20:42:38 ERROR root:61 - File not found java.io.FileNotFoundException: Database.dat (The system cannot find the file specified)
+2020-02-20 20:42:52 INFO  root:27 - Database was serialized
+2020-02-20 20:43:46 INFO  root:27 - Database was serialized
+2020-02-20 20:43:52 INFO  root:27 - Database was serialized
+2020-02-20 20:45:50 INFO  root:58 - Database was deserialized
+2020-02-20 20:45:58 INFO  root:73 - kstra logged in
+2020-02-20 20:46:43 INFO  root:160 - KStra made an offer on Car [ 1999 Radon-Ulzer Repulsorlift Custom Built Podracer miles=25000 $1000000.0 VIN=156688]
+2020-02-20 20:49:45 INFO  root:27 - Database was serialized
+2020-02-20 20:50:52 INFO  root:58 - Database was deserialized
+2020-02-20 20:50:59 INFO  root:73 - kstra logged in
+2020-02-20 20:51:13 INFO  root:162 - KStra made an offer on Car [ 1999 Radon-Ulzer Repulsorlift Custom Built Podracer miles=25000 $1000000.0 VIN=156688]
+2020-02-20 20:51:29 INFO  root:27 - Database was serialized
+2020-02-20 21:01:12 INFO  root:58 - Database was deserialized
+2020-02-20 21:01:19 INFO  root:73 - kstra logged in
+2020-02-20 21:03:02 INFO  root:58 - Database was deserialized
+2020-02-20 21:03:08 INFO  root:73 - kstra logged in
+2020-02-20 21:03:36 INFO  root:58 - Database was deserialized
+2020-02-20 21:03:42 INFO  root:73 - kstra logged in
+2020-02-20 21:04:25 INFO  root:58 - Database was deserialized
+2020-02-20 21:04:33 INFO  root:73 - kstra logged in
+2020-02-20 21:05:09 INFO  root:58 - Database was deserialized
+2020-02-20 21:05:15 INFO  root:73 - kstra logged in
+2020-02-20 21:05:33 INFO  root:27 - Database was serialized
+2020-02-20 21:06:27 INFO  root:58 - Database was deserialized
+2020-02-20 21:06:34 INFO  root:73 - kstra logged in
+2020-02-20 21:06:44 INFO  root:164 - KStra made an offer on Car [ 1977 Incom Corporation T-65 X-wing starfighter miles=20000 $25000.0 VIN=144931]
+2020-02-20 21:06:54 INFO  root:27 - Database was serialized
+2020-02-20 21:07:16 INFO  root:58 - Database was deserialized
+2020-02-20 21:07:23 INFO  root:73 - kstra logged in
+2020-02-20 21:09:03 INFO  root:58 - Database was deserialized
+2020-02-20 21:09:14 INFO  root:83 - bjohn logged in
+2020-02-20 21:15:02 INFO  root:58 - Database was deserialized
+2020-02-20 21:15:09 INFO  root:83 - bjohn logged in
+2020-02-20 21:17:02 INFO  root:58 - Database was deserialized
+2020-02-20 21:17:07 INFO  root:83 - bjohn logged in
+2020-02-20 21:17:50 INFO  root:58 - Database was deserialized
+2020-02-20 21:18:00 INFO  root:83 - bjohn logged in
+2020-02-20 21:18:53 INFO  root:58 - Database was deserialized
+2020-02-20 21:19:01 INFO  root:83 - bjohn logged in
+2020-02-20 21:19:15 INFO  root:174 - Car [ 1999 Radon-Ulzer Repulsorlift Custom Built Podracer miles=25000 $90000.0 VIN=156688] was sold to customer Customer [firstName=Kenneth, lastName=Stratton, username=KStra, myCars=[Car [ 1999 Radon-Ulzer Repulsorlift Custom Built Podracer miles=25000 $90000.0 VIN=156688]]]
+2020-02-20 21:20:31 INFO  root:27 - Database was serialized
+2020-02-20 21:21:58 INFO  root:58 - Database was deserialized
+2020-02-20 21:22:05 INFO  root:83 - bjohn logged in
+2020-02-20 21:24:00 INFO  root:73 - kstra logged in
+2020-02-20 21:26:38 INFO  root:58 - Database was deserialized
+2020-02-20 21:26:45 INFO  root:73 - kstra logged in
+2020-02-20 21:27:37 INFO  root:83 - bjohn logged in
+2020-02-20 21:28:27 INFO  root:58 - Database was deserialized
+2020-02-20 21:28:35 INFO  root:83 - bjohn logged in
+2020-02-20 21:34:15 INFO  root:58 - Database was deserialized
+2020-02-20 21:34:21 INFO  root:83 - bjohn logged in
+2020-02-20 21:35:00 INFO  root:58 - Database was deserialized
+2020-02-20 21:35:06 INFO  root:83 - bjohn logged in
+2020-02-20 21:50:36 INFO  root:58 - Database was deserialized
+2020-02-20 21:50:44 INFO  root:83 - bjohn logged in
+2020-02-20 21:51:20 INFO  root:27 - Database was serialized
+2020-02-20 21:51:22 INFO  root:58 - Database was deserialized
+2020-02-20 21:51:29 INFO  root:83 - bjohn logged in
+2020-02-20 21:52:18 INFO  root:118 - Customer [firstName=David, lastName=Smith, username=DSmi, myCars=[]] created
+2020-02-20 21:53:29 INFO  root:58 - Database was deserialized
+2020-02-20 21:53:45 INFO  root:118 - Customer [firstName=David, lastName=Smith, username=DSMi, myCars=[]] created
+2020-02-20 21:53:56 INFO  root:27 - Database was serialized
+2020-02-21 09:30:21 INFO  root:58 - Database was deserialized
+2020-02-21 09:30:30 INFO  root:73 - kstra logged in
+2020-02-21 09:31:40 INFO  root:83 - bjohn logged in
+2020-02-21 09:37:56 INFO  root:73 - kstra logged in
+2020-02-21 09:38:34 INFO  root:83 - bjohn logged in
+2020-02-21 09:38:55 INFO  root:27 - Database was serialized
+2020-02-21 09:43:53 INFO  root:58 - Database was deserialized
+2020-02-21 09:44:03 INFO  root:58 - Database was deserialized
+2020-02-21 09:44:43 INFO  root:73 - Kstra logged in
+2020-02-21 09:49:38 INFO  root:58 - Database was deserialized
+2020-02-21 09:53:19 INFO  root:58 - Database was deserialized
+2020-02-21 09:53:33 INFO  root:73 - lSKy logged in
+2020-02-21 09:53:53 INFO  root:162 - LSky made an offer on Car [ 1977 Incom Corporation T-65 X-wing starfighter miles=20000 $25000.0 VIN=144931]
+2020-02-21 09:54:41 INFO  root:27 - Database was serialized
+2020-02-21 09:54:51 INFO  root:58 - Database was deserialized
+2020-02-21 09:54:54 INFO  root:27 - Database was serialized
+2020-02-21 10:19:47 INFO  root:58 - Database was deserialized
+2020-02-21 10:20:46 INFO  root:118 - Customer [firstName=Darth, lastName=Malgus, username=DMal, myCars=[]] created
+2020-02-21 10:21:20 INFO  root:162 - DMal made an offer on Car [ 1983 Sienar Fleet Systems  Tie Fighter miles=150000 $45000.0 VIN=51194]
+2020-02-21 10:21:37 INFO  root:83 - Bjohn logged in
+2020-02-21 10:22:16 INFO  root:176 - Car [ 1983 Sienar Fleet Systems  Tie Fighter miles=150000 $20000.0 VIN=51194] was sold to customer Customer [firstName=Darth, lastName=Malgus, username=DMal, myCars=[Car [ 1983 Sienar Fleet Systems  Tie Fighter miles=150000 $20000.0 VIN=51194]]]
+2020-02-21 10:23:23 INFO  root:224 - Car [ 2002 Toyota X-wing miles=25000 $1.0E7 VIN=561878] was created by BJohn
+2020-02-21 10:23:55 INFO  root:58 - Database was deserialized
+2020-02-21 10:24:03 INFO  root:73 - Kstra logged in
+2020-02-21 10:24:19 INFO  root:162 - KStra made an offer on Car [ 1977 Incom Corporation T-65 X-wing starfighter miles=20000 $25000.0 VIN=144931]
+2020-02-21 10:24:42 INFO  root:27 - Database was serialized
+2020-02-21 10:30:42 INFO  root:176 - Car [ 2002 Ford Focus miles=102500 $9000.0 VIN=541285] was sold to customer Customer [firstName=David, lastName=Malcom, username=DMal, myCars=[Car [ 2002 Ford Focus miles=102500 $9000.0 VIN=541285]]]
+2020-02-21 10:30:42 INFO  root:224 - Car [ Ford Focus 1528546 miles=2001 $10000.0 VIN=541285] was created by TBank
+2020-02-21 10:30:42 INFO  root:188 - Offers were removed for user DMal
+2020-02-21 10:30:56 INFO  root:58 - Database was deserialized
+2020-02-21 10:31:08 INFO  root:83 - Bjohn logged in
+2020-02-21 10:31:38 INFO  root:224 - Car [ 2020 Toyota Xwing miles=25002 $25000.0 VIN=65181] was created by BJohn
+2020-02-21 10:31:51 INFO  root:237 - Car [ 2020 Toyota Xwing miles=25002 $25000.0 VIN=65181] was removed by employee BJohn
+2020-02-21 10:32:09 INFO  root:27 - Database was serialized
+2020-02-21 10:32:56 INFO  root:58 - Database was deserialized
+2020-02-21 18:02:47 INFO  root:58 - Database was deserialized
+2020-02-21 18:03:02 INFO  root:73 - kstra logged in
+2020-02-22 11:17:17 INFO  root:58 - Database was deserialized
+2020-02-22 11:17:35 INFO  root:73 - Kstra logged in
+2020-02-22 11:18:17 INFO  root:162 - KStra made an offer on Car [ 2002 Corellian Engineering Corporation  YT-1300 Corellian light freighter miles=25000000 $500000.0 VIN=982248]
+2020-02-22 11:19:07 INFO  root:83 - bjohn logged in
+2020-02-22 11:19:32 INFO  root:176 - Car [ 2002 Corellian Engineering Corporation  YT-1300 Corellian light freighter miles=25000000 $50000.0 VIN=982248] was sold to customer Customer [firstName=Kenneth, lastName=Stratton, username=KStra, myCars=[Car [ 1999 Radon-Ulzer Repulsorlift Custom Built Podracer miles=25000 $90000.0 VIN=156688], Car [ 2002 Corellian Engineering Corporation  YT-1300 Corellian light freighter miles=25000000 $50000.0 VIN=982248]]]
+2020-02-22 11:20:36 INFO  root:27 - Database was serialized
+2020-02-22 11:23:50 INFO  root:58 - Database was deserialized
+2020-02-22 11:24:05 INFO  root:77 - Sorry, your information was incorrect
+2020-02-22 11:24:30 INFO  root:77 - Sorry, your information was incorrect
+2020-02-22 11:25:56 INFO  root:58 - Database was deserialized
+2020-02-22 11:26:11 INFO  root:78 - Sorry, your information was incorrect
+2020-02-22 11:26:26 INFO  root:74 - dsmi logged in
+2020-02-22 11:27:02 INFO  root:74 - lsky logged in
+2020-02-22 11:27:09 INFO  root:27 - Database was serialized
+2022-08-21 00:41:16 INFO  root:58 - Database was deserialized
+2022-08-21 00:43:22 INFO  root:78 - Sorry, your information was incorrect
+2022-08-21 00:43:48 INFO  root:119 - Customer [firstName=Kenneth, lastName=Stratton, username=Kstr, myCars=[]] created
+2022-08-21 00:49:58 INFO  root:59 - Database was deserialized
+2022-08-21 00:53:31 INFO  root:119 - Customer [firstName=Kenneth, lastName=Stratton, username=kstra, myCars=[]] created
+2022-08-21 00:54:46 INFO  root:28 - Database was serialized
+2022-08-21 13:04:50 INFO  root:59 - Database was deserialized
+2022-08-21 13:12:18 INFO  root:78 - Sorry, your information was incorrect
+2022-08-21 13:13:54 INFO  root:88 - Sorry, your information was incorrect
+2022-08-21 13:15:01 INFO  root:78 - Sorry, your information was incorrect
+2022-08-21 13:15:05 INFO  root:28 - Database was serialized
+2022-08-21 13:15:09 INFO  root:59 - Database was deserialized
+2022-08-21 13:15:19 INFO  root:78 - Sorry, your information was incorrect
+2022-08-21 13:16:04 INFO  root:59 - Database was deserialized
+2022-08-21 13:16:07 INFO  root:78 - Sorry, your information was incorrect
+2022-08-21 13:16:24 INFO  root:89 - Sorry, your information was incorrect
+2022-08-21 13:39:44 INFO  root:59 - Database was deserialized
+2022-08-21 14:01:29 INFO  root:89 - Sorry, your information was incorrect
+2022-08-21 14:02:44 INFO  root:85 - BJohn logged in
+2022-08-21 14:09:43 INFO  root:59 - Database was deserialized
+2022-08-21 14:09:48 INFO  root:89 - Sorry, your information was incorrect
+2022-08-21 14:10:05 INFO  root:85 - BJohn logged in
+2022-08-21 14:44:49 INFO  root:59 - Database was deserialized
+2022-08-21 14:45:08 INFO  root:59 - Database was deserialized
+2022-08-21 15:49:25 INFO  root:59 - Database was deserialized
+2022-08-21 15:49:44 INFO  root:87 - BJohn logged in
+2022-08-21 16:11:20 INFO  root:59 - Database was deserialized
+2022-08-21 16:11:33 INFO  root:87 - BJohn logged in
+2022-08-21 16:13:56 INFO  root:59 - Database was deserialized
+2022-08-21 16:14:06 INFO  root:87 - BJohn logged in
+2022-08-21 16:14:52 INFO  root:248 - Vehicle [ 5218 Ford Probe miles= 65668 price= $5.0 VIN= 1551864846] was created by BJohn
+2022-08-21 16:23:30 INFO  root:59 - Database was deserialized
+2022-08-21 16:23:39 INFO  root:87 - BJohn logged in
+2022-08-21 16:24:06 INFO  root:248 - Vehicle [ 1988 Ford Probe miles= 6546 price= $2.0 VIN= 4654] was created by BJohn
+2022-08-21 16:38:51 INFO  root:59 - Database was deserialized
+2022-08-21 16:39:45 INFO  root:87 - BJohn logged in
+2022-08-21 17:22:21 INFO  root:59 - Database was deserialized
+2022-08-21 17:22:35 INFO  root:87 - BJohn logged in
+2022-08-21 17:23:06 INFO  root:250 - Vehicle [ 1992 Ford Probe miles= 51864 price= $0.0 VIN= 165485] was created by BJohn
+2022-08-21 17:26:11 INFO  root:59 - Database was deserialized
+2022-08-21 17:28:06 INFO  root:87 - BJohn logged in
+2022-08-21 17:30:51 INFO  root:250 - Vehicle [ 1995 Ford Probe miles= 5646 price= $15.0 VIN= 65489] was created by BJohn
+2022-08-21 17:49:38 INFO  root:59 - Database was deserialized
+2022-08-21 18:09:40 INFO  root:59 - Database was deserialized
+2022-08-21 18:09:48 INFO  root:122 - Customer [firstName=, lastName=, username=, myCars=[]] created
+2022-08-21 19:45:56 INFO  root:59 - Database was deserialized
+2022-08-21 19:46:35 INFO  root:148 - Customer [firstName=K, lastName=S, username=Kstr, myCars=[]] created
+2022-08-21 19:48:20 INFO  root:84 - Sorry, your information was incorrect
+2022-08-21 19:48:40 INFO  root:80 - KStra logged in
+2022-08-21 19:52:07 INFO  root:59 - Database was deserialized
+2022-08-21 19:52:15 INFO  root:80 - KStra logged in
+2022-08-21 19:52:39 INFO  root:59 - Database was deserialized
+2022-08-21 19:52:46 INFO  root:80 - KStra logged in
+2022-08-21 19:53:25 INFO  root:59 - Database was deserialized
+2022-08-21 19:53:33 INFO  root:80 - KStra logged in
+2022-08-21 19:56:46 INFO  root:59 - Database was deserialized
+2022-08-21 19:56:53 INFO  root:80 - KStra logged in
+2022-08-21 20:04:07 INFO  root:59 - Database was deserialized
+2022-08-21 20:04:14 INFO  root:80 - KStra logged in
+2022-08-21 20:08:23 INFO  root:59 - Database was deserialized
+2022-08-21 20:08:30 INFO  root:80 - KStra logged in
+2022-08-21 20:09:59 INFO  root:59 - Database was deserialized
+2022-08-21 20:10:06 INFO  root:80 - KStra logged in
+2022-08-21 20:10:53 INFO  root:59 - Database was deserialized
+2022-08-21 20:11:04 INFO  root:80 - KStra logged in
+2022-08-21 20:13:32 INFO  root:59 - Database was deserialized
+2022-08-21 20:13:38 INFO  root:80 - Kstra logged in
+2022-08-21 20:14:13 INFO  root:193 - KStra made an offer on 1977 Incom Corporation T-65 X-wing starfighter miles= null price= $25000.0 VIN= 144931
+2022-08-21 21:25:42 INFO  root:59 - Database was deserialized
+2022-08-21 21:25:59 INFO  root:84 - Sorry, your information was incorrect
+2022-08-21 21:26:18 INFO  root:80 - KStra logged in
+2022-08-21 21:27:04 INFO  root:59 - Database was deserialized
+2022-08-21 21:27:11 INFO  root:80 - KStra logged in
+2022-08-21 21:27:53 INFO  root:59 - Database was deserialized
+2022-08-21 21:28:02 INFO  root:80 - KStra logged in
+2022-08-21 21:51:17 INFO  root:59 - Database was deserialized
+2022-08-21 21:51:23 INFO  root:80 - KStra logged in
+2022-08-21 21:55:49 INFO  root:59 - Database was deserialized
+2022-08-21 21:55:56 INFO  root:80 - KStra logged in
+2022-08-21 22:01:56 INFO  root:59 - Database was deserialized
+2022-08-21 22:02:38 INFO  root:59 - Database was deserialized
+2022-08-21 22:02:50 INFO  root:59 - Database was deserialized
+2022-08-21 22:15:05 INFO  root:59 - Database was deserialized
+2022-08-21 22:15:12 INFO  root:80 - KStra logged in
+2022-08-21 22:18:32 INFO  root:59 - Database was deserialized
+2022-08-21 22:18:37 INFO  root:59 - Database was deserialized
+2022-08-21 22:20:30 INFO  root:59 - Database was deserialized
+2022-08-21 22:21:27 INFO  root:59 - Database was deserialized
+2022-08-21 22:22:47 INFO  root:59 - Database was deserialized
+2022-08-21 22:23:08 INFO  root:59 - Database was deserialized
+2022-08-21 22:24:41 INFO  root:59 - Database was deserialized
+2022-08-21 22:24:48 INFO  root:80 - KStra logged in
+2022-08-21 22:25:46 INFO  root:59 - Database was deserialized
+2022-08-21 22:25:54 INFO  root:96 - Sorry, your information was incorrect
+2022-08-21 22:26:15 INFO  root:92 - BJohn logged in
+2022-08-21 22:30:00 INFO  root:59 - Database was deserialized
+2022-08-21 22:30:20 INFO  root:59 - Database was deserialized
+2022-08-21 22:30:33 INFO  root:80 - KStra logged in
+2022-08-21 22:38:41 INFO  root:59 - Database was deserialized
+2022-08-21 22:38:48 INFO  root:80 - KStra logged in
+2022-08-21 22:39:39 INFO  root:59 - Database was deserialized
+2022-08-21 22:39:50 INFO  root:59 - Database was deserialized
+2022-08-21 22:39:58 INFO  root:59 - Database was deserialized
+2022-08-21 22:40:05 INFO  root:59 - Database was deserialized
+2022-08-21 22:40:23 INFO  root:59 - Database was deserialized
+2022-08-21 22:41:22 INFO  root:59 - Database was deserialized
+2022-08-21 22:41:33 INFO  root:80 - KStra logged in
+2022-08-21 22:42:34 INFO  root:59 - Database was deserialized
+2022-08-21 22:42:44 INFO  root:84 - Sorry, your information was incorrect
+2022-08-21 22:42:52 INFO  root:80 - KStra logged in
+2022-08-21 22:45:15 INFO  root:59 - Database was deserialized
+2022-08-21 22:45:23 INFO  root:80 - KStra logged in
+2022-08-21 22:45:56 INFO  root:59 - Database was deserialized
+2022-08-21 22:46:03 INFO  root:80 - KStra logged in
+2022-08-21 22:46:38 INFO  root:96 - Sorry, your information was incorrect
+2022-08-21 22:46:57 INFO  root:92 - BJohn logged in
+2022-08-21 23:41:05 INFO  root:59 - Database was deserialized
+2022-08-21 23:44:50 INFO  root:92 - BJohn logged in
+2022-08-21 23:47:37 INFO  root:59 - Database was deserialized
+2022-08-21 23:47:47 INFO  root:92 - BJohn logged in
+2022-08-21 23:48:21 INFO  root:59 - Database was deserialized
+2022-08-21 23:48:32 INFO  root:92 - BJohn logged in
+2022-08-22 20:05:46 INFO  root:59 - Database was deserialized
+2022-08-22 20:05:57 INFO  root:92 - BJohn logged in
+2022-08-22 20:53:39 INFO  root:59 - Database was deserialized
+2022-08-22 20:53:46 INFO  root:92 - BJohn logged in
+2022-08-22 21:00:59 INFO  root:59 - Database was deserialized
+2022-08-22 21:01:07 INFO  root:92 - BJohn logged in
+2022-08-22 21:03:17 INFO  root:59 - Database was deserialized
+2022-08-22 21:03:56 INFO  root:92 - BJohn logged in
+2022-08-22 21:04:40 INFO  root:59 - Database was deserialized
+2022-08-22 21:05:12 INFO  root:92 - BJohn logged in
+2022-08-22 22:42:04 INFO  root:59 - Database was deserialized
+2022-08-22 22:42:13 INFO  root:80 - KStra logged in
+2022-08-22 22:42:45 INFO  root:59 - Database was deserialized
+2022-08-22 22:42:53 INFO  root:92 - BJohn logged in
+2022-08-23 19:15:46 INFO  root:59 - Database was deserialized
+2022-08-23 19:16:26 INFO  root:148 - Customer [firstName=Kenneth, lastName=Stratton, username=apples, myCars=[]] created
+2022-08-23 19:16:33 INFO  root:59 - Database was deserialized
+2022-08-23 19:16:38 INFO  root:84 - Sorry, your information was incorrect
+2022-08-23 19:17:11 INFO  root:80 - KStra logged in
+2022-08-23 20:04:07 INFO  root:59 - Database was deserialized
+2022-08-23 20:04:16 INFO  root:80 - KStra logged in
+2022-08-23 20:08:43 INFO  root:59 - Database was deserialized
+2022-08-23 20:08:51 INFO  root:80 - KStra logged in
+2022-08-23 20:12:18 INFO  root:92 - BJohn logged in
